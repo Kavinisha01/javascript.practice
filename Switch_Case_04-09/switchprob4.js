@@ -1,4 +1,4 @@
-let character = "A";
+let character = "h";
 
 switch (character) {
     case 'a': 

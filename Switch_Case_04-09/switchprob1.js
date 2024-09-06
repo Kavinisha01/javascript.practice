@@ -1,4 +1,4 @@
-let day = 4;
+let day = 9;
 switch (day){
     case 1:
         console.log("Today is Monday");

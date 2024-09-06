@@ -1,4 +1,4 @@
-let name1 = 1;
+let name1 = 3;
 switch (name1){
     case 1:
         console.log("Kavinisha");

@@ -3,7 +3,7 @@
 // If the age is between 13 and 64, the ticket price is $20 (print "20").
 // If the age is 65 or older, the ticket price is $15 (print"15").
 
-let age = 5;
+let age = -5;
 switch (true){
     case age < 5:
         console.log("Free");
