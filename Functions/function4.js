@@ -1,0 +1,1 @@
+let globalVar = "I'm global";
